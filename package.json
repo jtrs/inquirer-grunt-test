@@ -1,0 +1,12 @@
+{
+  "name": "inquirer-test",
+  "description": "Grunt integration to upload a cubbles-webpackage into a cubbles-base.",
+  "version": "0.1.0",
+  "dependencies": {
+    "inquirer": "^1.0.2"
+  },
+  "devDependencies": {
+    "grunt": "~1.0.1 ",
+    "grunt-prompt": "^1.3.3"
+  }
+}
